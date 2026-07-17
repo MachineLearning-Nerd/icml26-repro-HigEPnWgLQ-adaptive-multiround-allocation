@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "title": "Repro - Adaptive Multi-Round Allocation with Stochastic Arrivals",
+  "emoji": "🎯",
+  "space_id": null,
+  "paper": {
+    "openreview_id": "HigEPnWgLQ",
+    "arxiv_id": "2605.12111"
+  },
+  "tags": [
+    "icml2026-repro",
+    "paper-HigEPnWgLQ"
+  ],
+  "updated_at": "2026-07-17T04:36:46+00:00",
+  "root": {
+    "slug": "index",
+    "title": "Repro - Adaptive Multi-Round Allocation with Stochastic Arrivals",
+    "file": "pages/index.md",
+    "children": [
+      {
+        "slug": "overview",
+        "title": "Overview",
+        "file": "pages/overview/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-1",
+        "title": "Claim 1",
+        "file": "pages/claim-1/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-2",
+        "title": "Claim 2",
+        "file": "pages/claim-2/page.md",
+        "children": []
+      },
+      {
+        "slug": "claim-3",
+        "title": "Claim 3",
+        "file": "pages/claim-3/page.md",
+        "children": []
+      },
+      {
+        "slug": "methods",
+        "title": "Methods",
+        "file": "pages/methods/page.md",
+        "children": []
+      },
+      {
+        "slug": "negative-controls",
+        "title": "Negative controls",
+        "file": "pages/negative-controls/page.md",
+        "children": []
+      },
+      {
+        "slug": "conclusion",
+        "title": "Conclusion",
+        "file": "pages/conclusion/page.md",
+        "children": []
+      }
+    ]
+  },
+  "agent_view_tokens": 1966,
+  "revision": "1784263006481854017"
+}

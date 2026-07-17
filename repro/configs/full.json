@@ -1,0 +1,8 @@
+{
+  "seed": 260512111,
+  "greedy_max_budget": 8,
+  "dp_budgets": [4, 6, 8, 10, 12, 16, 20],
+  "gamma": 0.7,
+  "multi_round_budget": 6
+}
+
